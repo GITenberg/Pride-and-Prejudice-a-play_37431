@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/68
     wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37431#Pride-and-Prejudice-a-play
 gutenberg_issued: '2011-09-15'
 gutenberg_type: Text
 identifiers:
