@@ -1,0 +1,42 @@
+_repo: Pride-and-Prejudice-a-play_37431
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37431-h/images/cover_lg.jpg
+creator:
+  authors:
+  - agent_name: MacKaye, Steele, Mrs.
+    aliases:
+    - MacKaye, Mrs. Steele
+    - MacKaye, Mary Keith Medbery
+    birthdate: 1845
+    deathdate: 1924
+    gutenberg_agent_id: '38839'
+    url: http://www.gutenberg.org/2009/agents/38839
+  - agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+description: ''
+gutenberg_issued: '2011-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fairy tales -- United States'
+- !lcsh 'England -- Drama'
+- !lcsh 'Bennet, Elizabeth (Fictitious character) -- Drama'
+- !lcsh 'Sisters -- Drama'
+- !lcsh 'Social classes -- Drama'
+- !lcsh 'Young women -- Drama'
+- !lcsh 'Courtship -- Drama'
+- !lcsh 'Domestic drama'
+title: Pride and Prejudice, a play founded on Jane Austen's novel
+url: http://www.gutenberg.org/ebooks/37431
